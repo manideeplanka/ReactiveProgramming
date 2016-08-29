@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javam/javam.iml" filepath="$PROJECT_DIR$/.idea/modules/javam/javam.iml" group="javam" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javam/javam_main.iml" filepath="$PROJECT_DIR$/.idea/modules/javam/javam_main.iml" group="javam" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javam/javam_test.iml" filepath="$PROJECT_DIR$/.idea/modules/javam/javam_test.iml" group="javam" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rxfun.iml" filepath="$PROJECT_DIR$/.idea/modules/rxfun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rxfun_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rxfun_main.iml" group="rxfun" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rxfun_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rxfun_test.iml" group="rxfun" />
+    </modules>
+  </component>
+</project>
